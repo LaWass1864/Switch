@@ -35,7 +35,7 @@ include 'inc/nav.inc.php';
 				if($_SESSION['membre']['civilite'] == 'm'){
 					echo 'homme';
 				}
-				elseif($_SESSION['membre']['civilite'] == 'f'){
+				// elseif($_SESSION['membre']['civilite'] == 'f'){
 					echo 'femme';
 				}; 
 				?>
