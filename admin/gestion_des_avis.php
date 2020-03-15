@@ -223,7 +223,7 @@ echo '<td><a href="?action=supprimer&id_avis=' . $avis['id_avis'] . '" class="bt
 					
 	
 	//***************************
-	// FIN AFFICHAGE DES AVI
+	// FIN AFFICHAGE DES AVIs de la page gestion des avis
 	//***************************
 	?>
 </div>
