@@ -13,7 +13,7 @@ include 'inc/nav.inc.php';
 
 
 <div class="starter-template text-center mt-5">
-		<h1><i style="color: #4c6ef5;"></i> Contactez-nous ici <i style="color: #4c6ef5;"></i></h1>
+		<h1><i style="color: #4c6ef5;"></i> Contactez-nous  ici <i style="color: #4c6ef5;"></i></h1>
 		<p class="lead"><?php echo $msg; ?></p>
 	</div>
 
@@ -22,7 +22,7 @@ include 'inc/nav.inc.php';
 
 <form>
   <div class="form-group">
-    <label for="exampleFormControlInput1">Email</label>
+    <label for="exampleFormControlInput1">Merci d'indiquer votre mail</label>
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   </div>
   
