@@ -13,7 +13,7 @@ include 'inc/nav.inc.php';
 
 
 <div class="starter-template text-center mt-5">
-		<h1><i style="color: #4c6ef5;"></i> Contactez-nous ici <i style="color: #4c6ef5;"></i></h1>
+		<h1><i style="color: #4c6ef5;"></i> Contactez-nous  <i style="color: #4c6ef5;"></i></h1>
 		<p class="lead"><?php echo $msg; ?></p>
 	</div>
 
