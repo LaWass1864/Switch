@@ -11,7 +11,7 @@
             <a class="nav-link" href="../quisommesnous.php">Qui sommes-nous ?</a>
           </li>
 		  <li class="nav-item">
-            <a class="nav-link" href="../contactez-nous.php">Contactez-nous</a>
+            <a class="nav-link" href="../contactez-nous.php">Contactez-nous...</a>
           </li>
 		  
 
