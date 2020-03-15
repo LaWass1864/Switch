@@ -4,7 +4,7 @@
   <!-- Footer -->
   <footer class="py-5 bg-dark">
     <div class="container">
-      <p class="m-0 text-center text-white ">Copyright France &copy; Switch 2020</p>
+      <p class="m-0 text-center text-white "> France &copy; Switch 2020</p>
       
     </div>
     <!-- /.container -->
