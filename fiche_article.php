@@ -55,7 +55,7 @@ $infos_produit->rowCount() . '</b></p>';
 				<?php } ?>
 				
 				<li class="list-group-item">Prix : <b><?php echo $produit['prix']; ?></b>€</li>
-				<li class="list-group-item">Description : <?php echo $salle['description']; ?></li>
+				<li class="list-group-item">Description : <?php echo $produit['description']; ?></li>
 			</ul>
 			
 		</div>
